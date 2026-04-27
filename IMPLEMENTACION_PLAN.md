@@ -24,13 +24,15 @@ Requisitos de salida por consola:
 
 ### Checklist de Progreso
 - [x] Revisar `servidor.py`
-- [ ] Hito actual: Implementar servidor concurrente (en desarrollo)
-- [ ] Probar el servidor y validar comportamiento con múltiples clientes
+- [x] Hito actual: Implementar servidor concurrente
+- [x] Validación sintáctica de `servidor.py`
+- [ ] Probar el servidor en ejecución con múltiples clientes
 
 ## Ciclo de Verificacion Interna
 1. No entregar implementación completa sin validar este hito.
 2. No incluir bloques de código mayores a 5 líneas en esta fase; sólo firmas y pseudocódigo.
 3. Mantener el checklist actualizado.
+4. Si no hay una herramienta para ejecutar procesos, dejar la prueba de ejecución como pendiente.
 
 ### Esqueleto sugerido (firmas / pseudocódigo)
 ```
@@ -55,4 +57,4 @@ def main():
 
 ---
 Preguntas de validación:
-- ¿Confirmas que proceda a implementar el `handle_client` y modificar `servidor.py` siguiendo este plan?
+- ¿Quieres que deje también un cliente de prueba mínimo para verificar concurrencia manualmente?

@@ -9,7 +9,7 @@ sock.connect(direccion_servidor)
 
 def main():
     try:
-        mensaje = b'Este mensaje se repetira'
+        mensaje = b'Cliente 2: Este mensaje se repetiras'
         print ('Enviando {!r}'.format(mensaje))
         sock.sendall(mensaje)
 
