@@ -10,6 +10,20 @@ Este proyecto implementa un sistema de pruebas de carga para medir el rendimient
 - **hito3_automate.py**: Automatización del Hito 3 (barrido de N valores)
 - **hito5_compare.py**: Comparación entre servidor normal y congestionado
 
+## Evidencia Visual
+
+### Ejecución en Modo Normal
+
+![Ejecución normal](img/ejecucion_normal.png)
+
+### Resultados Consolidados
+
+![Resultados](img/resultados.png)
+
+### Comparativa Normal vs Congestionado
+
+![Comparativa](img/Comparativa_normal_congestion.png)
+
 ## Comparación Normal vs Congestionado
 
 ### Escenario 1: Servidor Normal (sin retardo)
