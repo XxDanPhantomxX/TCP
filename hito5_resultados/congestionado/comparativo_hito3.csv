@@ -1,0 +1,6 @@
+clientes,clientes_ejecutados,tiempo_total_ejecucion,latencia_min,latencia_max,latencia_promedio,report_file
+1,1,11.063042879104614,1.0006926709975232,1.0009391179992235,1.000804237700504,/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n1.json
+5,5,11.065840721130371,1.0004176309957984,1.001087122996978,1.000654879980575,/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n5.json
+10,10,11.103548765182495,1.0003122170019196,1.0015005079985713,1.0007452365096834,/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n10.json
+20,20,11.149412631988525,1.0004310349977459,1.004231578001054,1.000744207645439,/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n20.json
+50,50,11.32532262802124,1.0003484760018182,1.0087211200007005,1.0008616102739325,/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n50.json

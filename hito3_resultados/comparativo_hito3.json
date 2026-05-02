@@ -1,0 +1,52 @@
+[
+  {
+    "clientes": 1,
+    "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito3_resultados/reporte_carga_n1.json",
+    "tiempo_total_ejecucion": 1.049414873123169,
+    "latencia_min": 0.00018506999913370237,
+    "latencia_max": 0.0006425329993362539,
+    "latencia_promedio": 0.00034233340120408683,
+    "clientes_ejecutados": 1,
+    "errores_clientes": []
+  },
+  {
+    "clientes": 5,
+    "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito3_resultados/reporte_carga_n5.json",
+    "tiempo_total_ejecucion": 1.0665132999420166,
+    "latencia_min": 0.00011574800009839237,
+    "latencia_max": 0.0006908239956828766,
+    "latencia_promedio": 0.0003298772202106193,
+    "clientes_ejecutados": 5,
+    "errores_clientes": []
+  },
+  {
+    "clientes": 10,
+    "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito3_resultados/reporte_carga_n10.json",
+    "tiempo_total_ejecucion": 1.0943982601165771,
+    "latencia_min": 0.00011356499453540891,
+    "latencia_max": 0.0015738410002086312,
+    "latencia_promedio": 0.0003591870098898653,
+    "clientes_ejecutados": 10,
+    "errores_clientes": []
+  },
+  {
+    "clientes": 20,
+    "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito3_resultados/reporte_carga_n20.json",
+    "tiempo_total_ejecucion": 1.1576414108276367,
+    "latencia_min": 8.747500396566465e-05,
+    "latencia_max": 0.005110328995215241,
+    "latencia_promedio": 0.00039155605492851463,
+    "clientes_ejecutados": 20,
+    "errores_clientes": []
+  },
+  {
+    "clientes": 50,
+    "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito3_resultados/reporte_carga_n50.json",
+    "tiempo_total_ejecucion": 1.3706238269805908,
+    "latencia_min": 7.175600330810994e-05,
+    "latencia_max": 0.01638716200250201,
+    "latencia_promedio": 0.000800919831963256,
+    "clientes_ejecutados": 50,
+    "errores_clientes": []
+  }
+]

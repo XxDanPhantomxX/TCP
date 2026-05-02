@@ -1,0 +1,116 @@
+[
+  {
+    "escenario": "normal",
+    "delay": 0.0,
+    "datos": [
+      {
+        "clientes": 1,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal/reporte_carga_n1.json",
+        "tiempo_total_ejecucion": 1.0489532947540283,
+        "latencia_min": 0.00018056899716611952,
+        "latencia_max": 0.0006030810036463663,
+        "latencia_promedio": 0.0002926248991570901,
+        "clientes_ejecutados": 1,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 5,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal/reporte_carga_n5.json",
+        "tiempo_total_ejecucion": 1.0675349235534668,
+        "latencia_min": 8.998900011647493e-05,
+        "latencia_max": 0.0005739859989262186,
+        "latencia_promedio": 0.0002786358403682243,
+        "clientes_ejecutados": 5,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 10,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal/reporte_carga_n10.json",
+        "tiempo_total_ejecucion": 1.0853478908538818,
+        "latencia_min": 8.975799573818222e-05,
+        "latencia_max": 0.0011062039993703365,
+        "latencia_promedio": 0.0003118593802355463,
+        "clientes_ejecutados": 10,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 20,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal/reporte_carga_n20.json",
+        "tiempo_total_ejecucion": 1.147512674331665,
+        "latencia_min": 9.091999527299777e-05,
+        "latencia_max": 0.0027584120034589432,
+        "latencia_promedio": 0.0003589967146035633,
+        "clientes_ejecutados": 20,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 50,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal/reporte_carga_n50.json",
+        "tiempo_total_ejecucion": 1.3298113346099854,
+        "latencia_min": 7.480099884560332e-05,
+        "latencia_max": 0.018919195994385518,
+        "latencia_promedio": 0.0006626792259194189,
+        "clientes_ejecutados": 50,
+        "errores_clientes": []
+      }
+    ],
+    "output_dir": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/normal"
+  },
+  {
+    "escenario": "congestionado",
+    "delay": 0.5,
+    "datos": [
+      {
+        "clientes": 1,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n1.json",
+        "tiempo_total_ejecucion": 11.063042879104614,
+        "latencia_min": 1.0006926709975232,
+        "latencia_max": 1.0009391179992235,
+        "latencia_promedio": 1.000804237700504,
+        "clientes_ejecutados": 1,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 5,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n5.json",
+        "tiempo_total_ejecucion": 11.065840721130371,
+        "latencia_min": 1.0004176309957984,
+        "latencia_max": 1.001087122996978,
+        "latencia_promedio": 1.000654879980575,
+        "clientes_ejecutados": 5,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 10,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n10.json",
+        "tiempo_total_ejecucion": 11.103548765182495,
+        "latencia_min": 1.0003122170019196,
+        "latencia_max": 1.0015005079985713,
+        "latencia_promedio": 1.0007452365096834,
+        "clientes_ejecutados": 10,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 20,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n20.json",
+        "tiempo_total_ejecucion": 11.149412631988525,
+        "latencia_min": 1.0004310349977459,
+        "latencia_max": 1.004231578001054,
+        "latencia_promedio": 1.000744207645439,
+        "clientes_ejecutados": 20,
+        "errores_clientes": []
+      },
+      {
+        "clientes": 50,
+        "report_file": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado/reporte_carga_n50.json",
+        "tiempo_total_ejecucion": 11.32532262802124,
+        "latencia_min": 1.0003484760018182,
+        "latencia_max": 1.0087211200007005,
+        "latencia_promedio": 1.0008616102739325,
+        "clientes_ejecutados": 50,
+        "errores_clientes": []
+      }
+    ],
+    "output_dir": "/home/danphantom/Documents/01_Proyectos/MSC/Tecnologias/TCP/hito5_resultados/congestionado"
+  }
+]
